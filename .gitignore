@@ -11,6 +11,10 @@ AturanTeknisUTSPPBSE26.md
 batch_slides.json
 create_slides.py
 upload_images.py
+fix_table.json
+fix_table_run.py
+fix_*.json
+*.py
 thumb_slide*.png
 
 # Node / Backend
