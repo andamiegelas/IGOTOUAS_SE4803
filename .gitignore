@@ -1,22 +1,3 @@
-# Course / Planning docs (offline only)
-PRD.md
-TDD.md
-PROGRESSION_TRACK.md
-VALIDATION_NOTES.MD
-idetubes.md
-pedoman.md
-AturanTeknisUTSPPBSE26.md
-
-# Scratch / Slides scripts
-batch_slides.json
-create_slides.py
-upload_images.py
-fix_table.json
-fix_table_run.py
-fix_*.json
-*.py
-thumb_slide*.png
-
 # Node / Backend
 backend/node_modules/
 backend/uploads/proof-*.jpg
