@@ -1,0 +1,42 @@
+# Course / Planning docs (offline only)
+PRD.md
+TDD.md
+PROGRESSION_TRACK.md
+VALIDATION_NOTES.MD
+idetubes.md
+pedoman.md
+AturanTeknisUTSPPBSE26.md
+
+# Node / Backend
+backend/node_modules/
+backend/uploads/proof-*.jpg
+backend/uploads/proof-*.png
+backend/.env
+
+# Flutter / Dart
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/.pub-cache/
+mobile/.pub/
+mobile/build/
+
+# Android
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/android/gradlew
+mobile/android/gradlew.bat
+mobile/android/gradle/wrapper/gradle-wrapper.jar
+mobile/android/app/debug/
+mobile/android/app/profile/
+mobile/android/app/release/
+
+# IDE & OS
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
